@@ -2,6 +2,10 @@
 
 ## GLITCH
 
+### Destinatário
+- glitch@glitchprod.com
+- business@glitchprod.com
+
 ### Assunto
 \[TADC\] Inquiry on Brazilian cinema chain participation
 
@@ -23,6 +27,9 @@ Kind regards,
 
 ## Fathom Entertainment
 
+### Destinatário
+- info@fathomevents.com
+
 ### Assunto
 \[TADC\] Inquiry on Brazilian cinema chain participation
 
@@ -43,6 +50,9 @@ Kind regards,
 \[Your name\]
 
 ## Cinépolis Brasil
+
+### Destinatário
+- eventos@cinepolis.com
 
 ### Assunto
 Sugestão de exibição de "The Amazing Digital Circus: O Último Ato"
@@ -68,6 +78,9 @@ Atenciosamente,
 \[Seu nome\]
 
 ## UCI Cinemas
+
+### Destinatário
+- ucicorporate@ucicinemas.com.br
 
 ### Assunto
 Sugestão de exibição de "The Amazing Digital Circus: O Último Ato"
