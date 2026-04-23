@@ -3,7 +3,6 @@
 ## GLITCH
 
 ### Destinatário
-- glitch@glitchprod.com
 - business@glitchprod.com
 
 ### Assunto
