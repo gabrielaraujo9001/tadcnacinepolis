@@ -1,5 +1,31 @@
 # Templates de email
 
+## Cinemark
+
+### Destinatário
+A Cinemark não disponibiliza um email para isso, mas podemos mandar mensagens através do SAC: https://sac.cinemark.com.br/hc/pt-br/requests/new.
+
+### Assunto
+
+Sugestão de ampliação de exibição - The Amazing Digital Circus: O Último Ato
+
+### Corpo
+
+Olá, equipe da Cinemark, espero que estejam bem!
+
+Escrevo como um fã que tem acompanhado de perto o lançamento de The Amazing Digital Circus: O Último Ato no Brasil.
+
+Antes de tudo, gostaria de parabenizar a Cinemark por trazer esse evento tão aguardado ao país. É muito significativo ver uma obra independente de grande impacto global chegando às telonas brasileiras.
+
+Ao mesmo tempo, muitos fãs têm demonstrado interesse em assistir ao filme em regiões onde a Cinemark não possui presença. Como vocês sabem, há estados e cidades importantes sem unidades da rede, o que reduz o acesso do público.
+
+Assim, gostaria de sugerir que conversem com a GLITCH Productions e Fathom para expandir a exibição talvez fazendo acordos com os cinemas locais ou algo do tipo, mas seria um jeito de fazer com que mais brasileiros tivessem essa oportunidade!
+
+Se puderem trazer uma resposta concreta, mesmo que negativa, agradecemos muito!
+
+Atenciosamente,
+\[Seu nome\]
+
 ## GLITCH
 
 ### Destinatário
